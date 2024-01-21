@@ -1,0 +1,11 @@
+/** about****/
+
+#pic {
+	flex-direction:column;
+	align-items:center;
+}
+#pic img{
+	width:400px;
+	height:200px;
+	
+}
