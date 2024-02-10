@@ -277,7 +277,7 @@ width:50%;
 	width:360px;
 	height:240px;
 	margin:10px;
-        border: 10px solid white;
+        border-radius:2px;
 }
 
 /*************service section************/
