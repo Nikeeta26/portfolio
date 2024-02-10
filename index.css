@@ -219,9 +219,7 @@ nav ul li a:hover::after{
 	margin:20px 0px 40px;
 	color:gray;
 }
-.tab-titles p{
-	margin-left:80px;
-}
+
 .tab-links{
 	margin-right:50px;
 	font-size:18px;
