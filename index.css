@@ -255,7 +255,7 @@ width:50%;
 	display:block;
 }
 /*==========------Portfolio-----*/
-#portfolio{
+/*#portfolio{
 	display:flex;
 	flex-direction:column;
         background-color:rgba(0,0,0,0.9);
@@ -281,6 +281,33 @@ width:50%;
 	border:5px solid white;
 	border-radius:7px;
 	margin-top:8px;
+}*/
+
+#portfolio{
+	display:flex;
+	flex-direction:column;
+    background-color:rgba(0,0,0,0.9);
+    color:white; 	
+	align-items:center;
+	padding:20px;
+	
+}
+.gallery{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	box-sizing:bolder-box;
+}
+.gallery img{
+	width:360px;
+	height:240px;
+	margin:15px;
+}
+.photo
+{
+	border:5px solid white;
+	border-radius:7px;
+	margin:12px;
 }
 /*************service section*****************************/
 #services
