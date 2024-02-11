@@ -431,5 +431,17 @@ form .btn2{
   font-size:5px;
 margin-right:2px;  
 }
-	
+@media only screen and (max-width:600px ){
+  #home::before{
+	content: "";
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: url('port7.jpg') no-repeat center center/cover;
+	height:900px;
+	width:100%;
+	z-index:-1;
+	opacity:.8;
+}
+  } 	
   
