@@ -466,4 +466,11 @@ margin-right:2px;
 
 
 }
+	@media only screen and (max-width:350px ){
+           body{
+		   width:100%;
+	   }
+         
+	}
+	
   
