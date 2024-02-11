@@ -4,15 +4,10 @@
 	flex-wrap:wrap;
 	justify-content:center;
 }
-
 .heading
 {
 	font-size:2.5rem;
-	
 }
-
-
-
 #pic {
 	flex-direction:column;
 	flex-wrap:wrap;
@@ -21,13 +16,10 @@
 #pic img{
 	width:475px;
 	height:300px;
-	
-	
 }
 #intro h2{
 text-align:center;
-padding:10px;
-	
+padding:10px;	
 }
 .input{
 	width:60%;
