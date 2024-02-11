@@ -270,13 +270,13 @@ width:50%;
 	box-sizing:bolder-box;
 }
 .gallery img{
-	width:360px;
+	width:340px;
 	height:240px;
 	margin:15px;
 }
 .photo
 {
-	border:5px solid white;
+	border:1px solid white;
 	border-radius:7px;
 	margin:12px;
 }
