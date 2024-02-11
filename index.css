@@ -280,7 +280,8 @@ width:50%;
         border-radius:2px;
 }
 .photo{
-      borde-radius:2px solid white;
+	border:5px solid white;
+	border-radius:7px;
 }
 
 
