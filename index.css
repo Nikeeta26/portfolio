@@ -153,13 +153,8 @@ nav ul li a:hover::after{
 	opacity:.8;
 }
 .min{
-	display:flex;
-	flex-direction:column;
-	/*border:1px solid white;*/
-	align-items:center;
-	position:absolute;
-	top:30%;
-	right:10%;
+	 margin-left:70%;
+	 margin-top:35%;
 }
 .heading{
 	font-family:century;
