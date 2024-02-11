@@ -152,10 +152,14 @@ nav ul li a:hover::after{
 	z-index:-1;
 	opacity:.8;
 }
-/*.min{
-	 margin-left:70%;
-	 margin-top:35%;
-}*/
+.main{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	position:absolute;
+	top:30%;
+	right:10%;
+}
 .heading{
 	font-family:century;
 	font-size:3rem;
