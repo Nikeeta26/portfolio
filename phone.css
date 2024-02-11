@@ -4,7 +4,6 @@
 }
 .heading{
 	font-size:1.7rem;
-	
 }
 nav ul
 {
@@ -16,11 +15,9 @@ flex-wrap:wrap;
 /*******About************/
 .subtitle{
 	   font-size:40px;
-   
    }
    .about-col-1, .about-col-2{
-	   flex-basis:100%;
-	   
+	   flex-basis:100%;  
    }
    .about-col-1{
 	margin-bottom:30px;   
@@ -36,15 +33,11 @@ flex-wrap:wrap;
 }
 /**** contact***/
 .input{
-	
-	width:70%;
-	
+	width:70%;	
 }
 #msg{
 	width:20%;
-	
 }
 #send{
-	width:20%;
-	
+	width:20%;	
 }
