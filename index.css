@@ -279,6 +279,7 @@ width:50%;
 .photo{
 	border:5px solid white;
 	border-radius:7px;
+	margin:8px;
 }
 /*************service section*****************************/
 #services
