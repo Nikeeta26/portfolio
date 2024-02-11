@@ -196,6 +196,7 @@ nav ul li a:hover::after{
 }
 .about-col-1{
 	 flex-basis:35%;
+	 background: url('port7.jpg') no-repeat center center/cover;
 	}
 .about-col-1 img{
 	width:100%;
