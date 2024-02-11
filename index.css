@@ -255,9 +255,6 @@ width:50%;
 	display:block;
 }
 /*==========------Portfolio-----*/
-
-
-
 #portfolio{
 	display:flex;
 	flex-direction:column;
@@ -283,9 +280,7 @@ width:50%;
 	border:5px solid white;
 	border-radius:7px;
 }
-
-
-/*************service section************/
+/*************service section*****************************/
 #services
 {
 	display:flex;
