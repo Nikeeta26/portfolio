@@ -152,7 +152,7 @@ nav ul li a:hover::after{
 	z-index:-1;
 	opacity:.8;
 }
-.main{
+.min{
 	display:flex;
 	flex-direction:column;
 	/*border:1px solid white;*/
